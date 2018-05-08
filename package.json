@@ -18,5 +18,9 @@
   "bugs": {
     "url": "https://github.com/CosmicCoder96/CMS/issues"
   },
-  "homepage": "https://github.com/CosmicCoder96/CMS#readme"
+  "homepage": "https://github.com/CosmicCoder96/CMS#readme",
+  "dependencies": {
+    "express": "^4.16.3",
+    "nodemon": "^1.17.4"
+  }
 }
